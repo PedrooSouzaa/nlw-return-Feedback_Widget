@@ -48,6 +48,6 @@ $ npm run dev
 
 ## 
 
-Gostou do projeto? Me acompanhe no:  <a href="https://www.linkedin.com/in/pedro-miguel-de-souza-a0185719a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-miguel-de-souza-a0185719a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
